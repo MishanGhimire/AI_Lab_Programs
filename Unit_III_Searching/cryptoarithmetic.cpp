@@ -39,5 +39,5 @@ void solveCrypto() {
 
 int main() {
     solveCrypto();
-    return 0;
+    return 0; //labs
 }
